@@ -1,6 +1,6 @@
 # Halo, Saya Hernawati Indah Pardosi! 👋
 
-Siswa Rekayasa Perangkat Lunak (D4) di Politeknik Negeri Medan yang berfokus penuh pada pengembangan sistem web dinamis, logika pemrograman adaptif, dan siap berkontribusi dalam ekosistem kerja jarak jauh (**Remote Internship**).
+Mahasiswa Rekayasa Perangkat Lunak (D4) di Politeknik Negeri Medan yang berfokus penuh pada pengembangan sistem web dinamis, logika pemrograman adaptif, dan siap berkontribusi dalam ekosistem kerja jarak jauh (**Remote Internship**).
 
 ---
 
