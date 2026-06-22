@@ -26,8 +26,8 @@ Program analisis logika data berbasis C++ untuk memproses kalkulasi harga, batas
 ---
 
 ### 🎯 Kenapa Merekrut Saya Secara Remote?
-- **Dokumentasi yang Kuat:** Terbiasa menulis alur kerja git commit yang informatif dan file dokumentasi proyek yang terstruktur.
-- **Kemampuan Beradaptasi:** Terbukti tanggap mempelajari tumpukan teknologi baru (*fast learner*) berdasarkan jalur pemrograman praktis.
+- **Kemandirian Berbasis Dokumentasi:** Terbiasa menulis alur kerja git commit yang informatif dan file dokumentasi proyek yang terstruktur secara mandiri.
+- **Kemampuan Beradaptasi Singkat:** Terbukti tanggap mempelajari tumpukan teknologi baru (*fast learner*) berdasarkan kebutuhan implementasi proyek praktis.
 
 📫 **Hubungi Saya:**
 - **Email:** hernawatiindah2000pardosi@gmail.com
