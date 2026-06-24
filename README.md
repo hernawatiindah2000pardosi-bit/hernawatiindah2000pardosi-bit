@@ -3,7 +3,6 @@
 Mahasiswa Rekayasa Perangkat Lunak (D4) di Politeknik Negeri Medan yang berfokus penuh pada pengembangan sistem web dinamis, logika pemrograman adaptif, dan siap berkontribusi dalam ekosistem kerja jarak jauh (**Remote Internship**).
 
 (A Software Engineering (Bachelor of Applied Science) student at Politeknik Negeri Medan, fully focused on developing dynamic web systems, adaptive programming logic, and ready to contribute to a remote workplace ecosystem (Remote Internship).)
----
 
 ###  Ringkasan Kemampuan (Technical Stack)
 
@@ -34,8 +33,10 @@ Program analisis logika data berbasis C++ untuk memproses kalkulasi harga, batas
 
 ###  Kenapa Merekrut Saya Secara Remote? (**Why Hire Me Remotely?**)
 - **Kemandirian Berbasis Dokumentasi (Documentation-Driven Independence):** Terbiasa menulis alur kerja git commit yang informatif dan file dokumentasi proyek yang terstruktur secara mandiri.
+  
   (Accustomed to independently writing informative git commit histories and well-structured project documentation files.)
 - **Kemampuan Beradaptasi Singkat (Rapid Adaptability):** Terbukti tanggap mempelajari tumpukan teknologi baru (*fast learner*) berdasarkan kebutuhan implementasi proyek praktis.
+  
   (A proven fast learner capable of quickly picking up new tech stacks based on practical project implementation needs.)
 
  **Hubungi Saya (Contact Me):**
