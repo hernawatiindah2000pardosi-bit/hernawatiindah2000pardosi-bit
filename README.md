@@ -1,5 +1,5 @@
 # Halo, Saya Hernawati Indah Pardosi! 
-(_Hello, I'm Hernawati Indah Pardosi!_)
+(_**Hello, I'm Hernawati Indah Pardosi!**_)
 
 Mahasiswa Rekayasa Perangkat Lunak (D4) di Politeknik Negeri Medan yang berfokus penuh pada pengembangan sistem web dinamis, logika pemrograman adaptif, dan siap berkontribusi dalam ekosistem kerja jarak jauh (**Remote Internship**).
 
@@ -43,4 +43,3 @@ Program analisis logika data berbasis C++ untuk memproses kalkulasi harga, batas
 
  **Hubungi Saya (_Contact Me_):**
 - **Email:** hernawatiindah2000pardosi@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/hernawati-pardosi-a611763b6/]
